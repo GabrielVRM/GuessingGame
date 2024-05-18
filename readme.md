@@ -1,4 +1,13 @@
+
 # guessing game
+
+ > um jogo, onde o software descobrirá quantas vezes você adivinhou o número aleatório gerado pelo sistema
+ obs: tentando adicionar um pouco de ingles em meus redmes. 
+
+![Uploading Captura de tela 2024-05-18 190309.png…]()
+
+
+# guessing game (in English)
 
 #introduction
 
