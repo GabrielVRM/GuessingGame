@@ -1,7 +1,7 @@
 
 # guessing game
 
- > um jogo, onde o software descobrirá quantas vezes você adivinhou o número aleatório gerado pelo sistema
+- um jogo, onde o software descobrirá quantas vezes você adivinhou o número aleatório gerado pelo sistema <br/>
  obs: tentando adicionar um pouco de ingles em meus redmes. 
 
 ![Captura de tela 2024-05-18 190309](https://github.com/GabrielVRM/GuessingGame/assets/95998556/4f176f79-3da2-48df-aab3-8b714e6bc0af)
